@@ -1,8 +1,13 @@
 ---
 title: "Workshop Exercise: Emissions Data - Table, Map, and Chart"
 format: html
+execute:
+  echo: false   # Hide all code chunks globally
+  warning: false # Suppress warnings
+  message: false # Suppress messages from the console
 ---
-Klara Röbl
+
+<!--
 
 # Introduction
 
@@ -176,6 +181,8 @@ fig_map.show()
 
 Below, we place our results into a tabbed interface.
 
+-->
+
 ::: {.panel-tabset}
 
 ## Table
@@ -198,6 +205,11 @@ fig_map.show()
 
 :::
 
+<!--
+
+
 # Deploying to GitHub Pages
 
 As a final step, you should follow the steps outlined in the prework to deplioy your report to GitHub Pages. You will be asked to share a link to your report in the course portal
+
+-->
